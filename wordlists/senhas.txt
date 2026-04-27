@@ -1,0 +1,6 @@
+123456
+password
+toor
+msfadmin
+admin
+guest
