@@ -88,13 +88,8 @@ A documentação clara e a proposta de mitigação são tão vitais quanto a exe
 
 | Plataforma | Link |
 | :--- | :--- |
-| **GitHub** (Todos Repositórios) | [https://github.com/FabioWlademir?tab=repositories](https://github.com/FabioWlademir?tab=repositories) |
-| **LinkedIn** (Perfil Profissional) | [https://www.linkedin.com/in/fabiowlademir](https://www.linkedin.com/in/fabiowlademir) |
-| **Website/Blog** (Artigos e Tutoriais) | [f2suporte.blogspot.com](https://f2suporte.blogspot.com) |
-| **Página Pessoal** (GitHub Pages) | [https://fabiowlademir.github.io/](https://fabiowlademir.github.io/) |
-| **E-mail** | `f2suporte@gmail.com` |
-
-
+| **GitHub** (Todos Repositórios) | [https://github.com/albaracin?tab=repositories|
+| **LinkedIn** (Perfil Profissional) | https://www.linkedin.com/in/albaracin85/ |
 /
 ├── README.md
 ├── wordlists/
