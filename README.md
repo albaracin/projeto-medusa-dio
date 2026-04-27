@@ -90,6 +90,7 @@ A documentação clara e a proposta de mitigação são tão vitais quanto a exe
 | :--- | :--- |
 | **GitHub** (Todos Repositórios) | [https://github.com/albaracin?tab=repositories|
 | **LinkedIn** (Perfil Profissional) | https://www.linkedin.com/in/albaracin85/ |
+
 /
 ├── README.md
 ├── wordlists/
