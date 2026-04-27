@@ -108,4 +108,4 @@ A documentação clara e a proposta de mitigação são tão vitais quanto a exe
 
     
 📸 Evidências dos Testes de Força Bruta
-https://github.com/FabioWlademir/projeto-medusa-dio/blob/main/images/README.md
+https://github.com/albaracin/projeto-medusa-dio/blob/main/images/README.md
